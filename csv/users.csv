@@ -1,0 +1,4 @@
+Email,FullName,PasswordHash,PhoneNumber,RegistrationDate
+anna.smith@email.com,Anna Smith,$2b$10$hash1,+1234567890,2024-03-01
+john.doe@email.com,John Doe,$2b$10$hash2,+1234567891,2024-04-15
+kate.brown@email.com,Kate Brown,$2b$10$hash3,+1234567892,2024-05-12

@@ -1,0 +1,3 @@
+OrderID,Email,OrderDate,Status,ShippingAddress,PaymentMethod
+ORD001,anna.smith@email.com,2024-05-20,Shipped,123 Mountain Rd,Visa
+ORD002,john.doe@email.com,2024-06-01,Processing,456 Forest Ave,MasterCard
